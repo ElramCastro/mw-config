@@ -1084,6 +1084,7 @@ $wgConf->settings = array(
 		'wikihoyowiki' => true,
 		'worldbuildingwiki' => true,
 		'yggdrasilwiki' => true,
+		'dtswiki' => true,
 	),
 	'wmgUseVariables' => array(
 		'default' => false,
